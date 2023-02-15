@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently looking to land a junior data engineering role
+- 🌱 I’m currently studying the AWS Foundational Cloud Practitioner Certification 
+- 📫 How to reach me: vanderpagador22@gmail.com
+- 🎸 Hobbies: Guitar, Gym, Cooking and Gaming
