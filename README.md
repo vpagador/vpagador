@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently looking to land a junior data engineering role
-- 🌱 I’m currently studying the AWS Foundational Cloud Practitioner Certification 
+- 💫  I’m a Support Engineer @theAiCore
 - 📫 How to reach me: vanderpagador22@gmail.com
 - 🎸 Hobbies: Guitar, Gym, Cooking and Gaming
