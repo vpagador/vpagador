@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 💫  I’m a Support Engineer @theAiCore
 - 📫 How to reach me: vanderpagador22@gmail.com
-- 🎸 Hobbies: Guitar, Gym, Cooking and Gaming
+- 🎸 Hobbies: Guitar, Gym
